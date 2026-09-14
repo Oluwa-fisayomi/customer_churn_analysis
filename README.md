@@ -137,9 +137,6 @@ Future versions could:
 - `data_dictionary.docx` – Description of dataset fields.
 - `business_report.docx` – Summary of the business analysis and recommendations.
 
-## Collaborators
-
-- Owolabi Ayotomiwa
 
 ## Conclusion
 
