@@ -137,6 +137,10 @@ Future versions could:
 - `data_dictionary.docx` – Description of dataset fields.
 - `business_report.docx` – Summary of the business analysis and recommendations.
 
+## Collaborators
+
+- Owolabi Ayotomiwa
+
 ## Conclusion
 
 This project demonstrates how basic Python can be used to analyze customer data, identify churn-related warning signals, classify customers according to risk, and support customer-retention decisions.
